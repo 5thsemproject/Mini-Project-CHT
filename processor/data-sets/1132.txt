@@ -1,0 +1,6 @@
+domain Charger
+id 1132
+model-id Iphone-4-Charger
+color Silver
+product-name Eagle-Iphone-4-Charger-Dock-Silver-
+brand Eagle

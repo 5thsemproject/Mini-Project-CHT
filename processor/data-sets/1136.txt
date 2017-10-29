@@ -1,0 +1,6 @@
+domain NOT-ASSIGNED
+id 1136
+model-id S315i
+color Black
+product-name Logitech-S315i-Dock-Black-
+brand Logitech

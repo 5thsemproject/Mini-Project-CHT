@@ -1,0 +1,17 @@
+style-code 52FHBMAGIC-MINT
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-of-Size-M
+id 1369
+product-name French-Connection-Men-s-Solid-Casual-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+domain Shirt
+pattern Solid
+reversible No
+collar Button-Down
+fabric-care Machine-wash-as-per-tag
+closure Button
+pack-of 1
+fabric Cotton

@@ -1,0 +1,17 @@
+style-code PSF51601675DarkblueWithblue
+placket Full-Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-of-Size-40
+id 1370
+product-name Peter-England-Men-s-Woven-Casual-Dark-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+domain Shirt
+pattern Woven
+reversible No
+collar Spread-Collar
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Dry-in-Shade,Do-not-Wring,Reverse-and-Dry,Iron-Steam-or-Dry-as-per-Tag
+closure Button
+pack-of 1
+fabric Cotton-Polyester-Blend

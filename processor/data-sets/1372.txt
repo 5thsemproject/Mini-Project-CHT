@@ -1,0 +1,15 @@
+style-code GMSD0112RED
+placket Button-Down-Placket
+fit Regular
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-Shirt-of-Size-M
+id 1372
+product-name Gant-Men-s-Checkered-Casual-White-Pink-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Button-Down-Collar
+domain Shirt
+closure Button

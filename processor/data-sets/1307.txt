@@ -1,0 +1,14 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-1-inch-and-is-wearing-a-of-Size-32
+fly Zipper
+id 1307
+type Pants
+pattern Solid
+fabric Cotton
+belt-loops Yes
+closure Button
+product-name U-S-Polo-Assn-Slim-Fit-Men-s-White-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+occasion Casual
+alteration-required No

@@ -1,0 +1,14 @@
+warranty-summary Seller-Waranty---Buyer-has-to-courier-it-back-to-seller-at-his-own-cost
+domain NOT-ASSIGNED
+not-covered-in-warranty If-damaged
+id 1139
+product-name eShop24x7-DockAudio-Dock-White-
+brand eShop24x7
+charging-support Yes
+type Charging-Dock
+functions Sync
+model-id DockAudio
+covered-in-warranty If-not-working
+audio-jack Yes,3.5mm
+warranty-service-type Seller-Testing-Waranty
+color White

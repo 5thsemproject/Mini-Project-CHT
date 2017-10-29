@@ -1,0 +1,6 @@
+domain Mobile
+id 1140
+model-id 8-pin-Charging-docking-station-For-Apple-iPhone-6-Plus
+color White
+product-name YGS-8-pin-Charging-docking-station-For-Apple-iPhone-6-Plus-Dock-White-
+brand YGS

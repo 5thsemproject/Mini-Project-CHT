@@ -1,0 +1,11 @@
+style-code PSF31600974
+domain Shirt
+reversible No
+fit Slim
+sleeve Full-Sleeve
+pattern Checkered
+id 1311
+product-name Peter-England-Men-s-Checkered-Formal-Purple-Shirt
+suitable-for Western-Wear
+pack-of 1
+fabric Cotton

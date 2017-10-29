@@ -1,0 +1,15 @@
+domain Speaker
+configuration 2.1-Channel
+portable Yes
+id 1148
+subwoofer 1
+product-name Philips-Thunder-IN-MMS6000F-94-Portable-Home-Audio-Speaker-2-1-Channel-
+other-audio-features Play-MP3-from-Aux-Input-Port
+chassis-material Wood-Chassis
+usb-ports 1-USB-Ports
+other-features Power-Resume-Option,Wooden-Cabinet-for-Enhanced-Bass
+type Home-Audio-Speaker
+display-type Alpha-Numeric-Dislpay
+remote-control-support Yes
+model-name Thunder-IN-MMS6000F/94
+color Black

@@ -1,0 +1,15 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-2-inch-and-is-wearing-a-of-Size-32
+fly Zipper
+id 1305
+type Pants
+pattern Solid
+fabric Cotton
+pleats Flat-Front
+belt-loops Yes
+closure Button
+product-name John-Players-Slim-Fit-Men-s-Black-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+occasion Casual
+alteration-required No

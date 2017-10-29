@@ -1,0 +1,15 @@
+style-code L27695386SMUBlue
+placket Button-Down-Placket
+fit Regular
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-M
+id 1380
+product-name Lee-Men-s-Striped-Casual-White-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Striped
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Dry-in-Shade,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

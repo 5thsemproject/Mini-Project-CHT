@@ -1,0 +1,14 @@
+warranty-summary Seller-Waranty---Buyer-has-to-courier-it-back-to-seller-at-his-own-cost
+domain Mobile
+not-covered-in-warranty If-damaged
+id 1135
+product-name eShop24x7-iPhone-6-Audio-Dock-White-
+brand eShop24x7
+charging-support Yes
+type Charging-Dock
+functions Sync
+model-id iPhone-6-Audio
+covered-in-warranty If-not-working
+audio-jack Yes,3.5mm
+warranty-service-type Seller-Testing-Waranty
+color White

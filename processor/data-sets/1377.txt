@@ -1,0 +1,15 @@
+style-code 3S0221-BLUE
+placket Full-Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-of-Size-40
+id 1377
+product-name Indigo-Nation-Street-Men-s-Printed-Casual-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Printed
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Snap-Button
+fabric Cotton

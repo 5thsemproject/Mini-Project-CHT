@@ -1,0 +1,17 @@
+display Digital
+speaker-impedance 4-ohm
+warranty-summary 6-Months-Brand-Warranty
+tuner-bands FM
+covered-in-warranty Warranty-of-the-product-is-limited-to-manufacturing-defects-only
+power-supply AC,DC
+id 1150
+product-name Bexton-Wired-Speaker-with-USB-2-0-Black-FM-Radio-Black-
+other-features Complete-Music-System
+sales-package 1-Speaker-Unit,1-Remote
+controls Volume-Control,Bass,Treble
+ac-power-requirements 110---240
+not-covered-in-warranty Warranty-does-not-cover-any-fault-caused-due-to-external-accessories.
+maximum-fm-frequency-range 108-kHz
+warranty-service-type Customer-needs-to-contact-the-service-center.
+domain Speaker
+speaker-type Stereo

@@ -1,0 +1,14 @@
+display No
+warranty-summary Seller-Waranty---Buyer-has-to-courier-it-back-to-seller-at-his-own-cost
+domain NOT-ASSIGNED
+not-covered-in-warranty If-damaged
+id 1138
+product-name eShop24x7-DockAudio-Dock-Black-
+brand eShop24x7
+charging-support Yes
+type Charging-Dock
+model-id DockAudio
+covered-in-warranty If-Not-Working
+audio-jack Yes,3.5mm
+warranty-service-type Seller-Testing-Waranty
+color Black

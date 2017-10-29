@@ -1,0 +1,16 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-0-inch-and-is-wearing-a-of-Size-82
+fly Zipper
+id 1304
+type Pants
+pattern Self-Design
+fabric Polyester,Viscose
+pack-of 1
+pleats Flat-Front
+belt-loops Yes
+closure Button,Hook
+product-name Park-Avenue-Slim-Fit-Men-s-Brown-Trousers
+domain Trousers
+fabric-care Hand-Wash,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+occasion Formal
+alteration-required No

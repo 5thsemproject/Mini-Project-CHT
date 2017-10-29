@@ -1,0 +1,15 @@
+style-code RMSX05741-B3Medium-Blue
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-40
+id 1378
+product-name Raymond-Men-s-Self-Design-Formal-Light-Blue-Shirt
+hem NA
+pockets 1-Patch-Pocket-on-Chest
+pattern Self-Design
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

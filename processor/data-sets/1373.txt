@@ -1,0 +1,17 @@
+style-code RMSX05687-V3Medium-Violet
+placket Button-Down-Placket
+fit Regular
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-40
+id 1373
+product-name Raymond-Men-s-Striped-Formal-Purple-Shirt
+hem Straight-Hem
+pockets 1-Patch-Pocket-on-Chest
+domain Shirt
+pattern Striped
+reversible No
+collar Spread-Collar
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+closure Button
+pack-of 1
+fabric Cotton

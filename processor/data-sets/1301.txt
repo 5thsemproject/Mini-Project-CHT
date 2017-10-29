@@ -1,0 +1,4 @@
+product-name Peter-England-Men-s-Trousers
+domain Trousers
+occasion Casual
+id 1301

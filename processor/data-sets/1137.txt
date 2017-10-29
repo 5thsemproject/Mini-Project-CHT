@@ -1,0 +1,8 @@
+warranty-summary 1-Year
+domain NOT-ASSIGNED
+id 1137
+model-id PBS006_BK
+covered-in-warranty Manufacturing-Defects-Only
+color Black
+product-name SoundLogic-PBS006-BK-Dock-Black-
+brand SoundLogic

@@ -1,0 +1,4 @@
+id 1375
+product-name Wills-Lifestyle-Men-s-Casual-Shirt
+domain Shirt
+style-code WSMWSHA150025001Ponderosa-Pine

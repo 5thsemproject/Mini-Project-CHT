@@ -1,0 +1,12 @@
+warranty-summary 1-Year-Warranty-Against-Manufacturing-Defects-Only
+domain Bat
+not-covered-in-warranty Warranty-Does-Not-Cover-Any-External-Accessories,Damage-Caused-To-The-Product-Due-To-Improper-Installation-By-Customer,Damages-Caused-To-The-Product-By-Accident,Dropping-,Any-Damage-Caused-Due-To-Tampering-Of-The-Product-By-An-Unauthorized-Agent,Liability-For-Loss-Of-Data.
+id 1133
+product-name Aukey-Charging-Cradle-Spare-Battery-Charger-Dock-Black-
+brand Aukey
+charging-support Yes
+type Charging-Dock
+model-id Charging-Cradle-&-Spare-Battery-Charger
+covered-in-warranty Warranty-of-the-product-is-limited-to-manufacturing-defects-only
+warranty-service-type NA
+color Black

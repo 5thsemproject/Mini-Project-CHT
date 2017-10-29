@@ -1,0 +1,4 @@
+product-name Park-Avenue-Men-s-Dark-Blue-Trousers
+domain Trousers
+occasion Formal
+id 1302

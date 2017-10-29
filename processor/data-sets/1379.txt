@@ -1,0 +1,15 @@
+style-code L27706386SMUMaroon
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-of-Size-M
+id 1379
+product-name Lee-Men-s-Solid-Casual-Maroon-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Solid
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Dry-Flat,Dry-in-Shade,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

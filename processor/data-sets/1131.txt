@@ -1,0 +1,13 @@
+warranty-summary Waranty---Buyer-has-to-courier-it-back-to-seller-at-his-own-cost
+domain NOT-ASSIGNED
+weight 0.05
+id 1131
+product-name eShop24x7-iP4Dock-Dock-Black-
+brand eShop24x7
+charging-support Yes
+type Charging-Dock
+model-id iP4Dock
+not-covered-in-warranty If-damaged
+covered-in-warranty If-not-working
+warranty-service-type Seller-Testing-Waranty
+color Black

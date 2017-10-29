@@ -1,0 +1,17 @@
+style-code RQSZ00036-K8Black
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-of-Size-40
+id 1376
+product-name Raymond-Men-s-Printed-Casual-Black-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+domain Shirt
+pattern Printed
+reversible No
+collar Spread-Collar
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+closure Button
+pack-of 1
+fabric Cotton

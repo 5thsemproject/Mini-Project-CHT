@@ -1,0 +1,11 @@
+style-code ESF31600251
+domain Shirt
+reversible No
+fit Regular
+sleeve Full-Sleeve
+pattern Checkered
+id 1310
+product-name Peter-England-Men-s-Checkered-Casual-White-Shirt
+suitable-for Western-Wear
+pack-of 1
+fabric Cotton
